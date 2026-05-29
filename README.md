@@ -1,0 +1,1 @@
+# From-de-Moivre-s-Formula-to-the-Twisted-Hessian-Curve
